@@ -3,5 +3,5 @@
  To have more points change the 'N' variable (originally 40000).
  
 <p align="center">
-  <img src="montecarlo.png">
+  <img src="montecarlo.PNG">
 </p>
